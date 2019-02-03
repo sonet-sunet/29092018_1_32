@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Эта наша супер страница 2</h1>
-
+    <p class='par'>Это начало добавляемого параграфа</p>
     <script src="/js/main.js"></script>
 </body>
 </html>
